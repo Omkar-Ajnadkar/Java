@@ -7,3 +7,4 @@
 |3| [LessonThree](../master/LessonThree.java)| Relational, logical and ternary operators, Switch case|
 |4| [LessonFour](../master/LessonFour.java)| While, Do while, for loops and continue, break statements|
 |5| [LessonFive](../master/LessonFive.java)| Local and class variables, methods|
+|6| [LessonSix](../master/LessonSix.java)| Exception handeling|
