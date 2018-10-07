@@ -8,3 +8,4 @@
 |4| [LessonFour](../master/LessonFour.java)| While, Do while, for loops and continue, break statements|
 |5| [LessonFive](../master/LessonFive.java)| Local and class variables, methods|
 |6| [LessonSix](../master/LessonSix.java)| Exception handeling|
+|7| [LessonSeven](../master/LessonSeven.java) and [LessonSevenAnother](../master/LessonSevenAnother.java)| Fields, methods, private fields and overloading|
