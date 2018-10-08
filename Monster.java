@@ -1,4 +1,4 @@
-public class LessonSeven{
+public class MonsterTwo{
 
     public final String TOMBSTONE = "Here lives a dead monster";
 
@@ -36,20 +36,18 @@ public class LessonSeven{
         }
     }
 
-    public LessonSeven(int health, int attack, int movement){
+    public MonsterTwo(int health, int attack, int movement){
         this.health = health;
         this.attack = attack;
         this.movement = movement;
     }
 
     //default constucter
-    public LessonSeven(){
+    public MonsterTwo(){
 
     }
 
     public static void main(String[] args) {
-        LessonSeven Frank = new LessonSeven();
-        System.out.println(Frank.attack);
-    }
 
+    }
 }
