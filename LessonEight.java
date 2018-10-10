@@ -17,4 +17,13 @@ public class LessonEight{
         MonsterTwo.redrawBoard();
     }
 
+    for (MonsterTwo m: Monsters){
+        if(m.getAlive()){
+            int arrayItemIndex = ArrayUtils.indexOf(Monsters, m);
+            m.moveMonster(Monsters, arrayItemIndex);
+        }
+    }
+
+    MonsterTwo.redrawBoard();
+
 }
